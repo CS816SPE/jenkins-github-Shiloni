@@ -3,4 +3,4 @@
 - Connect the job to your GitHub Assignment repository using Git SCM Poll for every 5 seconds
 - Whenever you commit to your repository, the Jenkins job should run automatically.
 
-# Shiloni Pipalia - IMT2015031
+# Shiloni M Pipalia - IMT2015031
